@@ -21,6 +21,20 @@ Ruby Discord Bot that integrates with the DAOC Phoenix freeshard Herald
 
 Level up notification (levelup-notifier)
 
-### Env / Secrets
+### Configure Env / Secrets
 
 Rename `env_secret.default.rb` to `env_secret.rb` and fill the credentials for at least Discord (CLIENT_SECRET and BOT_TOKEN).
+
+### Install
+
+    gem install 
+
+### Run
+
+    ruby discord-bot.rb
+
+---
+
+Enjoy!
+
+@makevoid
