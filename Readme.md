@@ -1,6 +1,6 @@
 ### Discord DAOC Phoenix Bot
 
-Discord Bot written in ruby that integrates with the Phoenix Herald
+Ruby Discord Bot that integrates with the DAOC Phoenix freeshard Herald
 
 ### Features:
 
